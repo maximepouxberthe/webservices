@@ -53,7 +53,7 @@
                 </executions>
                 <configuration>
                     <sources>
-                        <source>${project.basedir}/src/main/resources/</source>
+                        <source>${project.basedir}/src/main/resources/books.xsd</source>
                     </sources>
                 </configuration>
             </plugin>
